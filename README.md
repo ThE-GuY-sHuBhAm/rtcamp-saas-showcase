@@ -66,8 +66,6 @@ After importing:
 
 > 📦 Use this with the All-in-One WP Migration plugin to restore the full WordPress site.
 
-👉 [Click here to download the `.wpress` backup file](./rtcamp-site.wpress)
-
 > Or clone the repo:
 ```bash
 git clone https://github.com/your-username/rtcamp-saas-showcase.git
