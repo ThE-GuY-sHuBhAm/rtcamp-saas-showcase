@@ -21,7 +21,7 @@ This project includes:
 
 ## 📽️ Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]((https://www.youtube.com/watch?v=bF-EFuRZyx4)
+[![Watch the demo](https://img.youtube.com/vi/bF-EFuRZyx4/0.jpg)](https://www.youtube.com/watch?v=bF-EFuRZyx4)
 
 
 ![Homepage Screenshot](assets/homepage.png)
@@ -61,6 +61,10 @@ After importing:
 ---
 
 ## 📥 Download
+
+👉 [Download the `.wpress` backup file (Google Drive)](https://drive.google.com/file/d/1-x-UEHZBTiGoSmHvoggzY4FSAYaJi7GH/view?usp=sharing)
+
+> 📦 Use this with the All-in-One WP Migration plugin to restore the full WordPress site.
 
 👉 [Click here to download the `.wpress` backup file](./rtcamp-site.wpress)
 
